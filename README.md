@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakthi Bala</h1>
+<h1 align="center">Aloha 👋, I'm Sakthi Bala</h1>
 <h3 align="center">Destroy to Create ...</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sakthi-Maan](https://github.com/Sakthi-Maan)
