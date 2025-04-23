@@ -1,4 +1,7 @@
-<h1 align="center">👋, This is Sakthi Bala AKA Sakthi-Maan</h1>
+<h1 align="center">
+  👋 Hey there! I'm <span style="color:#007acc;">Sakthi Bala</span> <br />
+  <small>AKA <strong>Sakthi-Maan</strong></small>
+</h1>
 <h3 align="center">Destroy to Create ...</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sakthi-Maan](https://github.com/Sakthi-Maan)
